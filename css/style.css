@@ -1,0 +1,102 @@
+@charset "utf-8";
+body h1 {
+    font-family: "Futura Hv BT";
+    text-align: center;
+    font-size: 25px;
+    color: #5F8037;
+}
+body h2 {
+    font-family: "Futura Hv BT";
+    font-size: 25px;
+    text-align: center;
+    color: #5F8037;
+}
+
+
+#banner {
+    background-color: #ECEEB0;
+    padding: 10px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+body p {
+    text-align: justify;
+    font-family: "Futura Md BT";
+    font-size: 15px;
+    color: #798036;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+}
+#banner p {
+    font-family: "Futura Md BT";
+    text-align: center;
+    color: #5F8037;
+}
+body img {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    float: left;
+}
+#section {
+    padding: 10px;
+    height: 850px;
+    margin-bottom: 10px;
+    background-color: #FFFFFF;
+}
+#space {
+    background-color: #CFD2A3;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 40px;
+    width: px;
+    margin-top: 10px;
+}
+#space p {
+    color: #020202;
+    font-family: "Futura Bk BT";
+    text-align: center;
+}
+#headeer {
+    height: 100px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #FFFFFF;
+}
+#headeer img {
+    float: left;
+    text-align: center;
+}
+#main {
+    background-color: #D6DCF5;
+    width: 70%;
+    margin-left: 15%;
+}
+#sectioon {
+    padding: 10px;
+    height: 195px;
+    margin-bottom: 10px;
+    background-color: #ECEEB0;
+}
+#section #sectioon img {
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+
+}
+#section p img {
+    margin-top: 10px;
+}
+#main #section table {
+}
+#main #section #paranorman {
+    margin-bottom: 10px;
+}
